@@ -1,0 +1,3 @@
+LoRA: Low-Rank Adaptation fine-tunes a model by training low-rank matrices, keeping most base weights frozen.
+Adam is an optimizer that adapts learning rates per parameter using running averages of gradients and squared gradients.
+Matrix exponentiation uses repeated squaring to compute A^n in O(log n) matrix multiplications.

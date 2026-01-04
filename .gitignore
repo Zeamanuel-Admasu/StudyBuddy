@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# LangChain / local indexes
+faiss_index/
+
+# OS / editor
+.DS_Store
+.vscode/
