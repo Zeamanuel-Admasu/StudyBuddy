@@ -213,18 +213,7 @@ If your PDF is scanned images, `PyPDFLoader` will not extract text. You would ne
 
 ---
 
-## GitHub Push (Quick Steps)
 
-```powershell
-git init
-git add .
-git commit -m "Initial StudyBuddy RAG project"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<repo>.git
-git push -u origin main
-```
-
----
 
 ## Next Steps (Planned)
 
